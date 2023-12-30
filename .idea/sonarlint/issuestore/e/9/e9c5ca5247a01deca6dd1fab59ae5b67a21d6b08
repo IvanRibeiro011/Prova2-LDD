@@ -1,0 +1,21 @@
+
+c	java:S112’"FDefine and throw a dedicated exception instead of using a generic one.(Ù€¹°8„“á¿Ë1
+j
+java:S1192#"HDefine a constant instead of duplicating this literal "country" 6 times.(äñé¹ıÿÿÿÿ8¯îÛ¿Ë1
+d
+java:S11929"GDefine a constant instead of duplicating this literal "record" 4 times.(ç„ˆ´8¯îÛ¿Ë1
+c
+java:S1192$"FDefine a constant instead of duplicating this literal "value" 4 times.(¯Øâ8ˆ¤à¿Ë1
+Q
+java:S2755š"3Disable access to external entities in XML parsing.(İ‰Ë–8—”á¿Ë1
+P
+java:S2755"3Disable access to external entities in XML parsing.(ğ¨ºî8—”á¿Ë1
+L	java:S1061"+Replace this use of System.out by a logger.(«âÕıÿÿÿÿ8™¥à¿Ë1
+W
+java:S6213>":Rename this variable to not match a restricted identifier.(Ûƒ¯8œğÛ¿Ë1
+W
+java:S6213Q":Rename this variable to not match a restricted identifier.(Ûƒ¯8èğÛ¿Ë1
+W
+java:S6213a":Rename this variable to not match a restricted identifier.(Ûƒ¯8ëğÛ¿Ë1
+W
+java:S6213o":Rename this variable to not match a restricted identifier.(Ûƒ¯8îğÛ¿Ë1

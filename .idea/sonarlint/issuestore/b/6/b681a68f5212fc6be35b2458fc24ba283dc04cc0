@@ -1,0 +1,11 @@
+
+c
+java:S1192E"FDefine a constant instead of duplicating this literal "
+\t\t" 3 times.(´„ 8’ÚÂË1
+h
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(µàÑ‹8Ğƒ‰ÂË1
+P
+java:S2755"3Disable access to external entities in XML parsing.(´‹ëù8¡ˆ‰ÂË1
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(°ßÎĞùÿÿÿÿ8©ˆ‰ÂË1
+>	java:S131""Add a default case to this switch.(µàÑ‹8µˆ‰ÂË1

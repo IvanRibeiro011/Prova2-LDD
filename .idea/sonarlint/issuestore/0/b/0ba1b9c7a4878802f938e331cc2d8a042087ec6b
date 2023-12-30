@@ -1,0 +1,18 @@
+
+d
+java:S1192%"GDefine a constant instead of duplicating this literal "record" 3 times.(¯˘˜ˇ8ÛÆôΩÀ1
+h
+java:S1301#"KReplace this "switch" statement by "if" statements to increase readability.(µ‡—ã8ÙÆôΩÀ1
+h
+java:S1301`"KReplace this "switch" statement by "if" statements to increase readability.(µ‡—ã8ÙÆôΩÀ1
+P
+java:S2755"3Disable access to external entities in XML parsing.(¥Ä˝8˜ÉìΩÀ1
+Z
+java:S2589s"8Remove this expression which always evaluates to "false"(◊›Úç˚ˇˇˇˇ8Ù∞ôΩÀ1
+a
+java:S2147R"DCombine this catch with the one at line 80, which has the same body.(çî˝æ8˘∞ôΩÀ1
+>	java:S131#""Add a default case to this switch.(µ‡—ã8˛∞ôΩÀ1
+G	java:S106N"+Replace this use of System.out by a logger.(≠œñ8É±ôΩÀ1
+o
+java:S3776W"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ßŸá≥8Ö±ôΩÀ1
+>	java:S131`""Add a default case to this switch.(µ‡—ã8á±ôΩÀ1
